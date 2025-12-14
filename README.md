@@ -1,7 +1,7 @@
 # <div align="center">Hi there! 👋 I'm <span style="color: #00D4FF;">Md Shakil Hossen</span></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Digital+Marketer+%7C+ML+Practitioner;Transforming+Data+into+Insights;Computer+Science+Engineer;Research+%26+Innovation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+ML+Practitioner;Digital+Marketer;Transforming+Data+into+Insights;Computer+Science+Engineer;Research+%26+Innovation+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
