@@ -118,7 +118,7 @@
 
 ### <div align="center">*Domain Expertise*</div>
 
-## <div align="center">Domain Expertise</div>
+ <div align="center">
 
 ```mermaid
 %%{
@@ -167,7 +167,7 @@ mindmap
       Interactive Reports
       Data Storytelling
       Real-time Monitoring
-
+</div>
 ---
 
 ## <div align="center">🏆 <span style="color: #FFD700; font-weight: bold; font-size: 24px;">Key Achievements</span> 🏆</div>
@@ -195,7 +195,7 @@ mindmap
 
 <div align="center">
 *"Data is the new oil, but insights are the refined fuel that drives business success."*
-</div><br>
+</div><br/>
 
 <div align="center">
 
