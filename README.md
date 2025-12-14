@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/md-shakil-hossen-seo-specialist/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mdshakilhossen537@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Sourov2002t&color=blue&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ShakilHossen537&color=blue&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science" width="400"/>
 </div>
 
-*Computer Science Engineering Student* at *Chandigarh University* (2022-2026) with a proven track record in data analytics, machine learning, and business intelligence & Digital Marketing (SEO). Specialized in transforming complex datasets into actionable insights through advanced statistical modeling and interactive visualizations. Published researcher with multiple papers in international conferences, actively seeking opportunities to apply data science expertise in real-world business scenarios.
+*Computer Science Engineering Student* at *Chandigarh University* (2022-2026) with a proven track record in Data Analytics, Machine Learning, Business Intelligence & Digital Marketing (SEO). Specialized in transforming complex datasets into actionable insights through advanced statistical modeling and interactive visualizations. Published researcher with multiple papers in international conferences, actively seeking opportunities to apply data science expertise in real-world business scenarios.
 
 ---
 
@@ -146,7 +146,7 @@ mermaid
   }
 }%%
 mindmap
-  root((Data Analysis<br/>Ecosystem))
+  root((Data Analysis Ecosystem))
     Business Intelligence
       KPI Development
       Performance Metrics
@@ -167,8 +167,6 @@ mindmap
       Interactive Reports
       Data Storytelling
       Real-time Monitoring
-
-
 </div>
 
 ---
@@ -195,7 +193,10 @@ mindmap
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 </div>
 
-> *"Data is the new oil, but insights are the refined fuel that drives business success."*
+
+<div align="center">
+*"Data is the new oil, but insights are the refined fuel that drives business success."*
+</div>
 
 <div align="center">
 
