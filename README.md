@@ -116,9 +116,7 @@
 </tr>
 </table>
 
-### <div align="center">*Domain Expertise*</div>
-
- <div align="center">
+## <div align="center">Domain Expertise</div>
 
 ```mermaid
 %%{
@@ -128,17 +126,13 @@
       'background': '#2c3e50',
       'mainBkg': '#34495e',
       'clusterBkg': '#2c3e50',
-
       'primaryColor': '#3498db',
       'primaryBorderColor': '#3498db',
-
       'secondaryColor': '#9b59b6',
       'tertiaryColor': '#27ae60',
-
       'primaryTextColor': '#ecf0f1',
       'nodeTextColor': '#ecf0f1',
       'titleColor': '#ffffff',
-
       'lineColor': '#bdc3c7',
       'tertiaryBorderColor': '#e74c3c',
       'edgeLabelBackground': '#34495e'
@@ -167,8 +161,7 @@ mindmap
       Interactive Reports
       Data Storytelling
       Real-time Monitoring
-</div>
----
+
 
 ## <div align="center">🏆 <span style="color: #FFD700; font-weight: bold; font-size: 24px;">Key Achievements</span> 🏆</div>
 
@@ -195,7 +188,7 @@ mindmap
 
 <div align="center">
 *"Data is the new oil, but insights are the refined fuel that drives business success."*
-</div><br/>
+</div>
 
 <div align="center">
 
