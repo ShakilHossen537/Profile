@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/sourov-kumar-nandi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sourovnandi11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/md-shakil-hossen-seo-specialist/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mdshakilhossen537@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <img src="https://komarev.com/ghpvc/?username=Sourov2002t&color=blue&style=for-the-badge" alt="Profile views" />
 </div>
 
@@ -18,11 +18,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science" width="400"/>
 </div>
 
-*Computer Science Engineering Student* at *Chandigarh University* (2022-2026) with a proven track record in data analytics, machine learning, and business intelligence. Specialized in transforming complex datasets into actionable insights through advanced statistical modeling and interactive visualizations. Published researcher with multiple papers in international conferences, actively seeking opportunities to apply data science expertise in real-world business scenarios.
+*Computer Science Engineering Student* at *Chandigarh University* (2022-2026) with a proven track record in data analytics, machine learning, and business intelligence & Digital Marketing (SEO). Specialized in transforming complex datasets into actionable insights through advanced statistical modeling and interactive visualizations. Published researcher with multiple papers in international conferences, actively seeking opportunities to apply data science expertise in real-world business scenarios.
 
 ---
 
-## <div align="center">🛠 <span style="color: #9C27B0; font-weight: bold; font-size: 24px;">Technical Arsenal</span> 🛠</div>
+## <div align="center">🛠 <span style="color: #9C27B0; font-weight: bold; font-size: 24px;">Technical Skills</span> 🛠</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,mysql,postgresql,mongodb" alt="Languages" />
@@ -179,8 +179,8 @@ mindmap
 
 | Achievement | Impact | Technology Stack |
 |:---|:---:|---:|
-| 🏏 *IPL Analytics Framework* | Interactive insights for cricket analytics | Power BI, SQL, Python |
-| ❤ *Heart Disease Prediction Model* | 96% accuracy in early detection | Python, Scikit-learn, ML |
+| 🏏 *Business Analytics Framework* | Interactive insights for Products analytics | Power BI, SQL, Python |
+| ❤ *Price Prediction Model* | 86% accuracy  | Python, Scikit-learn, ML |
 | 📊 *Sales Performance System* | Real-time business intelligence | Power BI, SQL, DAX |
 | 🔄 *Data Processing Automation* | 80% reduction in processing time | Python, Pandas, Automation |
 | 📝 *Research Publications* | International conference papers | Statistical Analysis, Research |
@@ -255,14 +255,14 @@ I'm actively seeking *Data Analyst internship opportunities* and collaborative p
 <br>
 <strong>Email</strong>
 <br>
-<a href="mailto:sourovnandi11@gmail.com">sourovnandi11@gmail.com</a>
+<a href="mailto:mdshakilhossen537@gmail.com">mdshakilhossen537@gmail.com</a>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>
 <br>
 <strong>LinkedIn</strong>
 <br>
-<a href="https://linkedin.com/in/sourov-kumar-nandi">Connect with me</a>
+<a href="https://www.linkedin.com/in/md-shakil-hossen-seo-specialist/">Connect with me</a>
 </td>
 </tr>
 </table>
